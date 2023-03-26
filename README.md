@@ -4,7 +4,7 @@ This repository is an example of using traefik to serve requests to two small ex
 # Installation
 1. Clone the repo.
     ```
-    git clone && cd traefik
+    git clone git@github.com:wannabewayno/traefik-example.git && cd traefik-example
     ```
 
 2. Next add an entry to your machine's host file to resolve `api.traefik.com => localhost`
